@@ -1,0 +1,8 @@
+# Ignore extras folder
+extras/
+
+# Ignore __pycache__ folders
+__pycache__/
+
+# Ignore mlruns folder
+mlruns/
